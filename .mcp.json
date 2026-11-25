@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "job-hunt": { "type": "http", "url": "https://jobhunt.app/mcp" }
+  }
+}

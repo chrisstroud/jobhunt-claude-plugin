@@ -1,0 +1,20 @@
+{
+  "name": "job-hunt",
+  "version": "2.0.0",
+  "description": "Run your job hunt from Claude: save postings, tailor resumes, track every application in JobHunt.",
+  "author": {
+    "name": "JobHunt",
+    "url": "https://jobhunt.app"
+  },
+  "homepage": "https://jobhunt.app",
+  "repository": "https://github.com/chrisstroud/jobhunt-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "job-search",
+    "resume",
+    "cover-letter",
+    "application-tracker",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://jobhunt.app/privacy"
+}

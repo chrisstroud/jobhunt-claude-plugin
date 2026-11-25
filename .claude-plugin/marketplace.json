@@ -1,0 +1,16 @@
+{
+  "name": "jobhunt",
+  "owner": {
+    "name": "JobHunt",
+    "url": "https://jobhunt.app"
+  },
+  "plugins": [
+    {
+      "name": "job-hunt",
+      "source": "./",
+      "description": "Run your job hunt from Claude with the JobHunt MCP server.",
+      "version": "2.0.0"
+    }
+  ],
+  "description": "The official JobHunt plugin for Claude."
+}
